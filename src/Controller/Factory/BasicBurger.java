@@ -1,4 +1,4 @@
-package Controller;
+package Controller.Factory;
 
 public class BasicBurger extends Burger {
     @Override

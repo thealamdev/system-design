@@ -1,4 +1,4 @@
-package Controller;
+package Controller.Factory;
 
 public class PremiumBurger extends Burger {
     public void prepare() {

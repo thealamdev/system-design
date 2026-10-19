@@ -1,9 +1,9 @@
 package Factory;
 
-import Controller.BasicBurger;
-import Controller.Burger;
-import Controller.PremiumBurger;
-import Controller.StandardBurger;
+import Controller.Factory.BasicBurger;
+import Controller.Factory.Burger;
+import Controller.Factory.PremiumBurger;
+import Controller.Factory.StandardBurger;
 import Enum.BurgerTypeEnum;
 
 public class BurgerFactory {
